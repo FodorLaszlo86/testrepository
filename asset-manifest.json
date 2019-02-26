@@ -1,13 +1,13 @@
 {
-  "main.css": "/FodorLaszlo86/testrepository.git/static/css/main.81798052.chunk.css",
-  "main.js": "/FodorLaszlo86/testrepository.git/static/js/main.14b2103c.chunk.js",
-  "main.js.map": "/FodorLaszlo86/testrepository.git/static/js/main.14b2103c.chunk.js.map",
-  "runtime~main.js": "/FodorLaszlo86/testrepository.git/static/js/runtime~main.ddb18c45.js",
-  "runtime~main.js.map": "/FodorLaszlo86/testrepository.git/static/js/runtime~main.ddb18c45.js.map",
-  "static/js/2.c88c70e5.chunk.js": "/FodorLaszlo86/testrepository.git/static/js/2.c88c70e5.chunk.js",
-  "static/js/2.c88c70e5.chunk.js.map": "/FodorLaszlo86/testrepository.git/static/js/2.c88c70e5.chunk.js.map",
-  "index.html": "/FodorLaszlo86/testrepository.git/index.html",
-  "precache-manifest.fc52c91bdee75de56d39b350747f775b.js": "/FodorLaszlo86/testrepository.git/precache-manifest.fc52c91bdee75de56d39b350747f775b.js",
-  "service-worker.js": "/FodorLaszlo86/testrepository.git/service-worker.js",
-  "static/css/main.81798052.chunk.css.map": "/FodorLaszlo86/testrepository.git/static/css/main.81798052.chunk.css.map"
+  "main.css": "/testrepository/static/css/main.81798052.chunk.css",
+  "main.js": "/testrepository/static/js/main.1f122587.chunk.js",
+  "main.js.map": "/testrepository/static/js/main.1f122587.chunk.js.map",
+  "runtime~main.js": "/testrepository/static/js/runtime~main.ea9a3c18.js",
+  "runtime~main.js.map": "/testrepository/static/js/runtime~main.ea9a3c18.js.map",
+  "static/js/2.c88c70e5.chunk.js": "/testrepository/static/js/2.c88c70e5.chunk.js",
+  "static/js/2.c88c70e5.chunk.js.map": "/testrepository/static/js/2.c88c70e5.chunk.js.map",
+  "index.html": "/testrepository/index.html",
+  "precache-manifest.0b1fccf4f8c51f49d0f4cdf130f23998.js": "/testrepository/precache-manifest.0b1fccf4f8c51f49d0f4cdf130f23998.js",
+  "service-worker.js": "/testrepository/service-worker.js",
+  "static/css/main.81798052.chunk.css.map": "/testrepository/static/css/main.81798052.chunk.css.map"
 }

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/FodorLaszlo86/testrepository.git/precache-manifest.fc52c91bdee75de56d39b350747f775b.js"
+  "/testrepository/precache-manifest.0b1fccf4f8c51f49d0f4cdf130f23998.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/FodorLaszlo86/testrepository.git/index.html", {
+workbox.routing.registerNavigationRoute("/testrepository/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
